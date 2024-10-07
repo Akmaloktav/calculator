@@ -1,0 +1,32 @@
+.container {
+    width: 350px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 10px;
+}
+
+input, button {
+    cursor: pointer;
+}
+
+/* .top-area {
+    border: 1px solid black;
+    display: grid;
+    grid-template-columns: 40px auto;
+}
+
+.clear {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    background-color: red;
+    border: 1px solid blue;
+    margin: 0 10px;
+}
+
+.screen {
+    width: 60px;
+    height: 30px;
+    background-color: yellow;
+    border: 1px solid green;
+} */
